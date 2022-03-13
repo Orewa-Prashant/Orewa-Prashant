@@ -34,11 +34,7 @@ Here are some ideas to get you started:
 
 [![Linkedin: Orewa-Prashant](https://img.shields.io/badge/-Orewa-Prashant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashant-kumar-964791218/)](https://www.linkedin.com/in/prashant-kumar-964791218//)
 [![GitHub Orewa-Prashant](https://img.shields.io/github/followers/Orewa-Prashan?label=follow&style=social)](https://github.com/Orewa-Prashant)
-**Languages and Tools:**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
+   
 ### My Projects
 **Will update soon**
 <br/>
