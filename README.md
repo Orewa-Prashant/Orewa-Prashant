@@ -32,9 +32,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am lazy XD
 
-[![Linkedin: Prashant Kumar](https://img.shields.io/badge/-prashant-kumar-964791218-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashant-kumar-964791218/)](https://www.linkedin.com/in/prashant-kumar-964791218/)
 <br/>
-[![GitHub: Prashant Kumar](https://img.shields.io/github/followers/Orewa-Prashant?label=follow&style=social)](https://github.com/Orewa-Prashant)
+### How to Reach Me
+<br/>
+<a href="https://www.linkedin.com/in/prashant-kumar-964791218/">
+  <img align="left" alt="Prashant's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>(https://img.shields.io/badge/-prashant-kumar-964791218-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashant-kumar-964791218/)](https://www.linkedin.com/in/prashant-kumar-964791218/)
+<br/>
+<a href="https://github.com/Orewa-Prashant">
+  <img align="left" alt="Prashant's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>(https://img.shields.io/github/followers/Orewa-Prashant?label=follow&style=social)](https://github.com/Orewa-Prashant)
    
 ### My Projects
 **Will update soon**
