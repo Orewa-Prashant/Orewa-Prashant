@@ -5,12 +5,50 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Orewa-Prashant&label=Views&color=blue&style=plastic" alt="prashantkumar" /> </p>
+<a href="https://www.linkedin.com/in/prashant-kumar-964791218/">
+  <img align="left" alt="Prashant's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Orewa-Prashant">
+  <img align="left" alt="Prashant's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/miya_atsumu07">
+  <img align="left" alt="Prashant's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://instagram.com/prashant.jr19/">
+  <img align="left" alt="Prashant's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br/>
+<br/>
+
+- 🔭 I’m currently working on my coding skills.
+- 🌱 I’m currently learning core subjects related to Placements.
+- 👯 I’m looking to collaborate on some front-end projects.
+- 🤔 I’m looking for help with Advanced Algorithms in Coding.
+- 💬 Ask me about How to get started with Coding
+- 📫 How to reach me: Instagram or Telegram
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am lazy XD
+
+[![Linkedin: Orewa-Prashant](https://img.shields.io/badge/-Orewa-Prashant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashant-kumar-964791218/)](https://www.linkedin.com/in/prashant-kumar-964791218//)
+[![GitHub Orewa-Prashant](https://img.shields.io/github/followers/Orewa-Prashan?label=follow&style=social)](https://github.com/Orewa-Prashant)
+**Languages and Tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
+### My Projects
+**Will update soon**
+<br/>
+<a href="https://github.com/Orew-Prashant">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Orewa-Prashant&show_icons=true&theme=light&line_height=27" alt="Prashant's github stats"/>
+</a>
+
+
+### My LeetCode Stats
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=parrry)
+
+<div align="center">
+</div>
