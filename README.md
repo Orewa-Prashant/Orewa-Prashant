@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 [![Linkedin: Prashant Kumar](https://img.shields.io/badge/-prashant-kumar-964791218-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashant-kumar-964791218/)](https://www.linkedin.com/in/prashant-kumar-964791218/)
 <br/>
-[![GitHub Orewa-Prashant](https://img.shields.io/github/followers/Orewa-Prashant?label=follow&style=social)](https://github.com/Orewa-Prashant)
+[![GitHub: Prashant Kumar](https://img.shields.io/github/followers/Orewa-Prashant?label=follow&style=social)](https://github.com/Orewa-Prashant)
    
 ### My Projects
 **Will update soon**
