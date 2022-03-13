@@ -33,10 +33,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am lazy XD
 
 [![Linkedin: prashant-kumar-964791218](https://img.shields.io/badge/-prashant-kumar-964791218-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashant-kumar-964791218/)](https://www.linkedin.com/in/prashant-kumar-964791218/)
-[![GitHub Orewa-Prashant](https://img.shields.io/github/followers/Orewa-Prashan?label=follow&style=social)](https://github.com/Orewa-Prashant)
+[![GitHub Orewa-Prashant](https://img.shields.io/github/followers/Orewa-Prashant?label=follow&style=social)](https://github.com/Orewa-Prashant)
    
 ### My Projects
 **Will update soon**
+<br/>
 <br/>
 <a href="https://github.com/Orew-Prashant">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Orewa-Prashant&show_icons=true&theme=light&line_height=27" alt="Prashant's github stats"/>
