@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 </a>
 <br/>
 ### My Projects
+<br/>
 **Will update soon**
 <br/>
 <br/>
